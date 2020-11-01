@@ -1,9 +1,9 @@
-# mark-down-cheat
+# mark-down-cheat :grinning:
 	A markdown cheat sheet for beginners.
 
----------------
+---
 
-# Headings 
+## Headings 
 
 We have six different ways to represent headings in the web.
 
@@ -19,9 +19,13 @@ We have six different ways to represent headings in the web.
 
 ###### Heading Six
 
+
+## Horizontal Line
 To create an horizontal line, use `---` 
 
 -----
+
+## Lists
 
 To make a list, there are three ways
 
@@ -38,7 +42,26 @@ Using bulleted list,
 
 ---
 
-Adding Links
+# Links
+
 code: `[actual text](link)`
 
 An example of a [link](https://google.com) is this.
+
+---
+
+## EMOJI
+
+use `:name-of-emoji:`
+
+:smiley:
+:blush:
+
+## Images
+
+To use images
+code: `![text instead of the image](location of image)`
+
+example: ![A sample green field](/sample.jpg)
+
+For more info, please visit [here](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
